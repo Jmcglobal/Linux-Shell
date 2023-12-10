@@ -690,3 +690,21 @@ export VARIABLE_NAME=value`
 Please note that the examples provided assume a general usage and may require modifications based on your specific system and file paths.
 
 These commands cover a wide range of tasks and utilities in Linux. Feel free to explore their options and further usage by referring to their respective man pages or online documentation.
+
+wc Command    
+wc command will calculate number of lines in a file
+wc will calculate how many words total on the file
+wc will calculate how many characters of alphabets
+```
+wc <file name>
+wc -l <file name>    >> calculate number of lines in a file
+wc -c <file name>   >>> calculate number of characters in a file
+wc -w <file name>  >>> calculate number of words in each file
+
+
+rwx = 
+r = 4
+w = 2
+x = 1
+```
+
